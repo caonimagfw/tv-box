@@ -1,0 +1,370 @@
+{
+  "data": [
+    {
+      "name": "CCTV-13 新闻",
+      "url": "https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSml1RohUXU9F3EmzVHIMRr6E-Mm0MPKODHUw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "凤凰卫视中文台",
+      "url": "http://210.210.155.35/uq2663/h/h157/index2.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJR1PgOCVMIZz26J2ICl9ifdXXm6JEmp-fTA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "香港耀才财经台 BSTV",
+      "url": "https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjQmKKfdMA2xHnNYBbix78Ksq5XxlK7G_WQw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "点掌财经",
+      "url": "https://volcanopull.aniu.tv/live/aniu2/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWcVHWbib_SsMA9i6TznmRGwheSayuemnHw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ABC News (Australia)",
+      "url": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd79b5jGJhAFH7YtFzrAjuLWEhVqOTQIWidQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "ABC News (US)",
+      "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjU9IGjjDqYkKMUcKRiNSss2grHqk17uTSpw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Africa News (English)",
+      "url": "https://rakuten-africanews-1-gb.lg.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRYk3_W-uU_XlcwUGBoUkdolFlOcHG-wr3SQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Al Jazeera (Qatar)",
+      "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS934k9F2F5q9sTpqIbEJgSTfHYP-h2hkbHmg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "AusBiz (Australia)",
+      "url": "https://ausbiztv-ausbiz-1-au.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEY08B8jYRrKOkN2NnqydK47hdkEn5rZGvlw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "BBC News",
+      "url": "http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/1092/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTyJUa9ehi5AwfT8sMoFuFOImfZqCZPM2Cw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Black News Channel",
+      "url": "https://blacknewschannel-vizio.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRc38l1gl1JCFmSEKKuNjvlTPkuk25TH2fyw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Bloomberg",
+      "url": "https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR4OeDxWuPd72gYMis17sdoAXUWPmuqMriSA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Bloomberg Asia Live Event",
+      "url": "https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Bloomberg EMEA Live Event",
+      "url": "https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgg5gCKSiNEUiJBdF4x3HJIgXeNkjR7deSWA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Bloomberg US Live Event",
+      "url": "https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71P4mnHdjmdwkH7R6ydUECWuLKxGKVX1-Hw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Bloomberg US Politics Event",
+      "url": "https://www.bloomberg.com/media-manifest/streams/politics.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR71P4mnHdjmdwkH7R6ydUECWuLKxGKVX1-Hw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CBC News",
+      "url": "https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_ca_cbcnews_001.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fYpZml0sLFA-53NYsRRS6UKV42iZ_yeXQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CBC News Highlights",
+      "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fYpZml0sLFA-53NYsRRS6UKV42iZ_yeXQA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CBN News",
+      "url": "https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1znrpLuT0aSHkcrUcd_sUm-NKO69lg_2y6g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CBS News",
+      "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSskVXXGNJH8rbXPEyJsPvVlpITrId6NMB3UA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CGTN (China)",
+      "url": "https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxZ3RixyVvFdCNg0Btma-aTxppRlM8MVIzA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Cheddar News",
+      "url": "https://cheddar.roku.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZSdpxUlcvLODq6AcjnpfWlzmabDfJ5z8McA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNA 亚洲新闻台 (Singapore)",
+      "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6maEnLaVhS40WXq6GbaeDmoAmKAW3UYNusw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNBC",
+      "url": "http://23.237.98.42:8080/USA_CNBC/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR01Lo6sznPIZeJs_hVhTcQWwyBZKXJhCe3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNBC Africa (South Africa★480p) [Not 24/7]",
+      "url": "http://41.205.93.154/CNBC/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR01Lo6sznPIZeJs_hVhTcQWwyBZKXJhCe3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNN",
+      "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcIOFz3H5PMBQtQZBP_aznkjyPi3ibCb23A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNN (Pluto★360p)",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5421f71da6af422839419cb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=209&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAcIOFz3H5PMBQtQZBP_aznkjyPi3ibCb23A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "CNN International",
+      "url": "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJqy1bnWblN5euwv19wyNeY08WesyuwzE3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "DW (Germany)",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUJlMEGy8RyOAyUkPteM0L0p26jaQ5oPbkvA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Euronews (France)",
+      "url": "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9l9XznkKEKKDPC58NZAkvqOpclUl4a472rQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX News Now",
+      "url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnDJr3pu8jjXF_FEKNBZNbAVB2WusKqzd01A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "FOX Weather",
+      "url": "https://247wlive.foxweather.com/stream/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ae0JwGwgx9dRttQi1sg4k4Ufvcb5puBHUA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "France 24",
+      "url": "https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6H9Mj1n4qlKxQCTeo82ftRpflvkxJBBgAjQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "GB News (UK)",
+      "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMxu-fQMZRR5ZYR_IgUywODfnCLIPSwyiDFQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Global News (Canada)",
+      "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDTX0-GiIU3F2ADp-KT5vrZ-c7DY9juidEsg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "i24 News",
+      "url": "https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9AcPszXzqE9ka5yXwb1QxPER8CSIIa3S8ww&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NDTV 24x7 (India)",
+      "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_1d81hJh9ubObpPo78i2XFIrEEaEvWe4EA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "News 12 New York",
+      "url": "https://lnc-news12.tubi.video/index.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ975352qLKC2Ts0AgkKD9PGu1Zw8R9KEqc3w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Newsmax",
+      "url": "https://newsmax-samsungus.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF-Azs7QVvYxniqcBKz68TUrlOsTEIMfUq9w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NEWSnet",
+      "url": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVGT5GQN923PSeM8KyygkbskzRANR7J4s9Lg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Newsy Top Stories",
+      "url": "https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbS8yzAKs7OgjBaIfVMO0Va260uj50mm5kqw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NHK World Japan",
+      "url": "http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQlefI3-TyjxFiKubKCo_rSuTNrwE5CqypAw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "NTV (Canada)",
+      "url": "https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRQuy9ln2ZAP_0n2V4uawR5bPGXxUSHAu2w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "OAN",
+      "url": "http://oneamericanews-roku-us.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJLxHdFg-KXgCdhJFBXaW6ziXZ5MxBk7cS3g&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "PlutoTV News",
+      "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eE1A4ns7O24spCrmqcxJjLiMRVCWSZvmjA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Press TV (Iran)",
+      "url": "https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZI0aTQLKtKm9MxxQIuZwPkWRHUSedWkHzag&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Real America's Voice",
+      "url": "https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdferHGNXzr8ZVt36-3hfBK1jlpcEI3o8uGg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Reuters Now",
+      "url": "https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-KKm-W76Q0v9POCdNuwVp6dkkh0ltKun2A&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "RT News (Russia)",
+      "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnj5ZIIFOF3kSZo3BCKgG5TjmERoQZhjjtaA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Scripps News",
+      "url": "https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0XFGWPW6Mwmt2lo0UJF9M9DQSdzfaDekKw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TD Ameritrade",
+      "url": "https://tdameritrade-vizio.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH-vD5XSq3zKeTkKJcKiqxfF67F9Caqgz1Ig&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TeleSUR (Venezuela) [Not 24/7]",
+      "url": "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_e1X0wmsDx9-gbUz0CnG2YGBlLcX1aBiwUw&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "The First",
+      "url": "https://thefirst-vizio.amagi.tv/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThYnaOLVLh4-GA2ktTzzm62gDLFyQ3tTIfhg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TRT World (Indonesia)",
+      "url": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmgY3ZlPnLYgHi_XRf2o77e2XUqqRareaj_w&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TYT Network [Not 24/7]",
+      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlx2n0Zg8-E1J22Xr3Bu09dwU72Xj817fpQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "UN Web TV",
+      "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwAHX49b-bv9DG0LxuddKjhbfMej2yTWuow&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "Yahoo! Finance",
+      "url": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeC-HMl91eEr8EzfNCO5TdZnB5KlEVLAD4cA&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "中天新闻",
+      "url": "https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT31DH1ouN_B4TKVE5IQvVOB5NNTzm7MLPiWg&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "TVBS新闻",
+      "url": "http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdkKlDQPQddEkhyFcGoUxdBs_QVaKXtxRSQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "民视新闻",
+      "url": "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1fsuTjnRk6bYcSsQ4kUuNTNSPZjKmMoYoQ&usqp=CAU",
+      "parse": false
+    },
+    {
+      "name": "台视新闻",
+      "url": "http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8",
+      "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Q8qNfsfYckBC4fWMv5VeLk9NvT4Ixp1cKA&usqp=CAU",
+      "parse": false
+    }
+  ]
+}
