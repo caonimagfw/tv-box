@@ -1,13 +1,15 @@
-[
-{"name":"xxx","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx.m3u"},
-{"name":"xxx Japan 1","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan 1.m3u"},
-{"name":"xxx Japan 2","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan 2.m3u"},
-{"name":"xxx Japan A-C","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan A-C.m3u"},
-{"name":"xxx Japan D-H","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan D-H.m3u"},
-{"name":"xxx Japan I-L","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan I-L.m3u"},
-{"name":"xxx Japan M-R","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan M-R.m3u"},
-{"name":"xxx Japan S","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan S.m3u"},
-{"name":"xxx Japan Si-W","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan Si-W.m3u"},
-{"name":"xxx Japan X","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan X.m3u"},
-{"name":"xxx Japan Y-Z","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan Y-Z.m3u"}
-]
+{
+   "data": [
+        {"name":"xxx","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx.m3u"},
+        {"name":"xxx Japan 1","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan 1.m3u"},
+        {"name":"xxx Japan 2","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan 2.m3u"},
+        {"name":"xxx Japan A-C","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan A-C.m3u"},
+        {"name":"xxx Japan D-H","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan D-H.m3u"},
+        {"name":"xxx Japan I-L","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan I-L.m3u"},
+        {"name":"xxx Japan M-R","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan M-R.m3u"},
+        {"name":"xxx Japan S","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan S.m3u"},
+        {"name":"xxx Japan Si-W","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan Si-W.m3u"},
+        {"name":"xxx Japan X","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan X.m3u"},
+        {"name":"xxx Japan Y-Z","url":"https://raw.github.com/caonimagfw/tv-box/main/eklins_fdtv/tv/xxx Japan Y-Z.m3u"}
+    ]
+}
