@@ -18,13 +18,10 @@ Hong Kong,#genre#
     翡翠台,https://sc2022.stream-link.org/tv2306.php?id=h02
     翡翠台,http://113.117.74.45:8081/hls/67/index.m3u8
     亚洲武侠频道,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-    
     无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
     无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
     无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
     无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
-    
-    
     明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
     J2,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
     NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
@@ -61,7 +58,6 @@ Hong Kong,#genre#
     粤听·小满音乐台,http://live.cooltv.top/tv/yueting.php?id=2490
     CoolFM流行,http://stream.rcs.revma.com/6n8m3pnb5tuvv
     CoolFM经典,http://stream.rcs.revma.com/nkv8akmb5tuvv
-
 
 China & CHC,#genre#
     欢笑剧场4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
